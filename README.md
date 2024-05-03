@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 ## File Structure
 
-
+---
 Car-Number-Plates-Detection/
 │
 ├── model/
@@ -54,7 +54,7 @@ Car-Number-Plates-Detection/
 ├── car_number_plate_detection.py
 │
 └── README.md
-
+---
 
 ## Credits
 
