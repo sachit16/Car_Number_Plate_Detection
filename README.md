@@ -61,7 +61,7 @@ Car-Number-Plates-Detection/
 
 ## Credits
 
-This project is inspired by [Car-Number-Plates-Detection](https://github.com/nshelke/Car-Number-Plates-Detection) by [nshelke](https://github.com/nshelke).
+This project is inspired by [Car-Number-Plates-Detection](https://github.com/sachit16/Car_Number_Plate_Detection) by [nshelke](https://github.com/sachit16).
 
 ```
 
