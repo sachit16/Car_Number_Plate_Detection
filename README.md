@@ -1,6 +1,3 @@
-Sure, here's an example `README.md` file for your project:
-
-```markdown
 # Car Number Plate Detection
 
 This project detects and extracts car number plates from a live video stream using OpenCV and a Haar Cascade classifier.
@@ -17,23 +14,23 @@ Make sure you have the following installed:
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/<username>/Car-Number-Plates-Detection.git
-   ```
+   
+   git clone https://github.com/sachit16/Car-Number-Plates-Detection.git
+
 
 2. Install the required Python packages:
 
-   ```bash
+
    pip install opencv-python numpy
-   ```
+
 
 ## Usage
 
 1. Run the `car_number_plate_detection.py` script:
 
-   ```bash
+   
    python car_number_plate_detection.py
-   ```
+   
 
 2. The script will open a window displaying the live video stream from your webcam.
    
@@ -43,7 +40,7 @@ Make sure you have the following installed:
 
 ## File Structure
 
-```
+
 Car-Number-Plates-Detection/
 │
 ├── model/
@@ -57,12 +54,10 @@ Car-Number-Plates-Detection/
 ├── car_number_plate_detection.py
 │
 └── README.md
-```
+
 
 ## Credits
 
-This project is inspired by [Car-Number-Plates-Detection](https://github.com/sachit16/Car_Number_Plate_Detection) by [nshelke](https://github.com/sachit16).
+This project is inspired by [Car-Number-Plates-Detection](https://github.com/sachit16/Car_Number_Plate_Detection) by [Sachit Bhor](https://github.com/sachit16).
 
-```
 
-Remember to replace `sachit16` with your GitHub username and make any other necessary adjustments.
