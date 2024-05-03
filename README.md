@@ -15,7 +15,7 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    
-   git clone https://github.com/sachit16/Car-Number-Plates-Detection.git
+   git clone https:https://github.com/sachit16/Car_Number_Plate_Detection.git
 
 
 2. Install the required Python packages:
@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 ## File Structure
 
----bash
+```
 Car-Number-Plates-Detection/
 │
 ├── model/
@@ -54,7 +54,7 @@ Car-Number-Plates-Detection/
 ├── car_number_plate_detection.py
 │
 └── README.md
----
+```
 
 ## Credits
 
