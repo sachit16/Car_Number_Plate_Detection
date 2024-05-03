@@ -40,7 +40,7 @@ Make sure you have the following installed:
 
 ## File Structure
 
----
+---bash
 Car-Number-Plates-Detection/
 │
 ├── model/
